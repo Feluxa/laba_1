@@ -7,4 +7,3 @@ def test_add_basic():
 
 def test_add_zero():
     assert add(-1, 1) == 0
-
