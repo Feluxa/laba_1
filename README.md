@@ -43,3 +43,4 @@ git add --chmod=+x scripts/bisect_demo_init.sh
 Изменение на main
 Изменение на main
 Добавлено в feature/setup
+Изменение на main
