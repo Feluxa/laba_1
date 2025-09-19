@@ -37,3 +37,4 @@ git log -1 --show-signature
 ## 7. TCO-mini
 
 - `docs/adr/0002-TCO-comparison.md`
+Signed commit URL: https://github.com/Feluxa/laba_1/commit/aa0c867a2f84b1a9e1245c887dc439b63216760d
