@@ -33,3 +33,7 @@ git log -1 --show-signature
 
 ## 6. ADR
 - `docs/adr/0001-dev-environment.md`
+
+## 7. TCO-mini
+
+- `docs/adr/0002-TCO-comparison.md`
